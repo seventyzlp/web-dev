@@ -45,6 +45,6 @@ First class scholarship in Beijing Film Academy - 2022.12
   - LAN data sharing module develop
   - build up multirotors for reality test
 
-## Scloarship
+## Scholarship
 - The Correlation Analysis between Cybersickness and Postural Behavior in Immersive Viewing Experience - ICME2024
 - U2UData: A Large-scale Cooperative Perception Dataset for Swarm UAVs Autonomous Flight - ACMM 2024
